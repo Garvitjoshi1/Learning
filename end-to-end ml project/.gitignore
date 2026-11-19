@@ -1,2 +1,3 @@
 .venv
 venv/
+ml_project.egg-info/
